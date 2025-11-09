@@ -121,19 +121,5 @@ basic-nlp-on-disaster-tweets/
 
 ---
 
-## 📈 Future Work
-- Fine-tune **BERT / DistilBERT** for improved contextual understanding.  
-- Use pre-trained **GloVe** or **Word2Vec** embeddings.  
-- Build a **Streamlit web app** for live tweet classification.  
-- Conduct **error analysis** to identify common misclassifications.
-
----
-
-## 🏆 Acknowledgments
-- Dataset by **Kaggle’s NLP Getting Started competition**  
-- NLP utilities from **NLTK**, **spaCy**, and **scikit-learn**
-
----
-
-**Author:** *[Your Name]*  
+**Author:** *Narendra Darla*  
 **Last Updated:** November 2025  
